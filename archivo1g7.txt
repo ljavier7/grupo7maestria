@@ -2,3 +2,4 @@ Archivo1 del grupo 7.
 Informacion nueva agregada
 Cambio en rama nueva
 Modificacion LOCAL
+Modificacion DESDE GIT
